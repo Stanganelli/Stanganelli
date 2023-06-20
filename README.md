@@ -1,8 +1,10 @@
 ## Olá! Eu sou Enzo Victor
 <div>
-    <a href="https://github.com/Gisele-Silva325">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stanganelli&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&icon_color=2d175a&theme=synthwave"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanganelli&layout=compact&langs_count=7&bg_color=FFFFFF&hide_border=true&title_color=341638&text_color=5a1f60&theme=synthwave"/>
+    <a href="https://github.com/Stanganelli">
+   :gear: Github Analytics
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanganelli&show_icons=true&theme=dracula&hide_rank=true) ![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanganelli&layout=compact&langs_count=8&theme=dracula)
+  
   </div>
   
 ### Tecnologias
@@ -15,8 +17,10 @@
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
+<br>
+<br>
   
-### Contato
+ :phone: Contact
   
   <div>
   
